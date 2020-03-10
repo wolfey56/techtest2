@@ -22,3 +22,8 @@ Leave footprints but ~~take nothing~~.
    * Never use cheap masks
 6. Boots
 7. Gloves
+
+## Video
+
+Here is a video that goes into detail about starting Urban Exploring 
+[Please take the time to watch this](https://www.youtube.com/watch?v=XsakTbEFzWY)
