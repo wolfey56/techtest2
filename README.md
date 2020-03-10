@@ -6,5 +6,6 @@ There are many things you want to bring with you while Urban Exploring. For star
 to carry all of your gear, a _flashlight_ to see your way through dark areas, and a *camera* to capture all of your findings.
 
 **TIP**: **NEVER EXPLORE AT NIGHT**
-**_Never_ Tresspass if you see No Tresspassing Signs**
+
+**_Never_** Tresspass if you see **No Tresspassing Signs**
 
