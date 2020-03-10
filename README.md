@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=XsakTbEFzWY
 
 Always `be safe` and `use caution` while exploring
 
+## Cost Table
 ```javascript
 var s = "Here is a table to get an estimate of the price of gear";
 alert(s);
