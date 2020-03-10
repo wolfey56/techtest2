@@ -11,3 +11,13 @@ to carry all of your gear, a _flashlight_ to see your way through dark areas, an
 
 Leave footprints but ~~take nothing~~.
 
+## Full gear List
+
+1. Backpack
+2. Flashlight
+3. Camera
+4. Rope 
+5. Respirator
+..* Never use cheap masks
+6. Boots
+7. Gloves
