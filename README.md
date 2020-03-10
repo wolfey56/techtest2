@@ -29,6 +29,6 @@ Here is a video that goes into detail about starting Urban Exploring
 
 https://www.youtube.com/watch?v=XsakTbEFzWY
 
-## What to look forward to 
+## What To Look Forward To 
 
 ![alt text](https://cdn-ep19.pressidium.com/wp-content/uploads/2018/07/urban-exploration-image1.jpg)
