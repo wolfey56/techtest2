@@ -9,3 +9,5 @@ to carry all of your gear, a _flashlight_ to see your way through dark areas, an
 
 **_Never_** Tresspass if you see **No Tresspassing Signs**
 
+Leave footprints but ~~take nothing~~.
+
