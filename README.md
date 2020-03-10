@@ -34,3 +34,8 @@ https://www.youtube.com/watch?v=XsakTbEFzWY
 ![alt text](https://cdn-ep19.pressidium.com/wp-content/uploads/2018/07/urban-exploration-image1.jpg)
 
 Always `be safe` and `use caution` while exploring
+
+```javascript
+var s = "Here is a table to get an estimate of the price of gear";
+alert(s);
+```
