@@ -26,4 +26,4 @@ Leave footprints but ~~take nothing~~.
 ## Video
 
 Here is a video that goes into detail about starting Urban Exploring 
-[Please take the time to watch this](https://www.youtube.com/watch?v=XsakTbEFzWY)
+https://www.youtube.com/watch?v=XsakTbEFzWY
