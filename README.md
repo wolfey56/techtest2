@@ -40,3 +40,9 @@ Always `be safe` and `use caution` while exploring
 var s = "Here is a table to get an estimate of the price of gear";
 alert(s);
 ```
+
+| Item          | Are           | Price  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
