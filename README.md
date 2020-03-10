@@ -32,3 +32,5 @@ https://www.youtube.com/watch?v=XsakTbEFzWY
 ## What To Look Forward To 
 
 ![alt text](https://cdn-ep19.pressidium.com/wp-content/uploads/2018/07/urban-exploration-image1.jpg)
+
+Always `be safe` and `use caution` while exploring
