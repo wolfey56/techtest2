@@ -19,6 +19,6 @@ Leave footprints but ~~take nothing~~.
 4. Rope 
 5. Respirator
 
-   Never use cheap masks
+   * Never use cheap masks
 6. Boots
 7. Gloves
