@@ -51,3 +51,12 @@ alert(s);
 | Gloves        | `Safe Climbing`      | **$20**   |
 
 > Proper gear is crucial when exploring. It could be what does or doens't cause a situation or what gets you out of it. If you buy cheap gear, chances of getting hurt are increased. Do yourself the favor of saving up a little more for the more expensive stuff to stay as safe as you can.
+
+<h2>Extra Things To Know</h2>
+  <ul>
+    <li>Never Run From Police</li>
+    <li>Always have a way in and out before you go</li>
+    <li>Be sure to research owner of property</li>
+    <li>Never park in front of the building</li>
+  </ul>
+  
