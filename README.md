@@ -49,3 +49,5 @@ alert(s);
 | Respirator    | `Clean Air`          | **$150**  |
 | Boots         | `Safe Walking`       | **$50**   |
 | Gloves        | `Safe Climbing`      | **$20**   |
+
+> Proper gear is crucial when exploring. It could be what does or doens't cause a situation or what gets you out of it. If you buy cheap gear, chances of getting hurt are increased. Do yourself the favor of saving up a little more for the more expensive stuff to stay as safe as you can.
