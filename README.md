@@ -61,3 +61,10 @@ alert(s);
   </ul>
   
   ___
+
+The more cooperative you are with police, the nicer they usually will be. 
+
+A way in and out is smart because if anything starts to happen, you know exactly where to go. 
+
+Info on the property owner can tell you many things such as their history and how they might feel about you there.
+Parking in front of a building will be an automatic give away.
